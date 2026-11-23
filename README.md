@@ -33,3 +33,7 @@ By the end of this project, I acquired a deep understanding of the principles be
 ## Scripts and inputs
 
 Start with the [lab report](RSN-Lab-5_Report.pdf) for the source image pairs and results. The MATLAB scripts are [15percents.m](15percents.m), [percent50.m](percent50.m), [cinder.m](cinder.m), and [pano.m](pano.m). Use MATLAB with Image Processing Toolbox and supply the images each script references.
+
+## Verification workflow
+
+Use the image pair corresponding to the selected MATLAB script. Check the feature correspondences and overlap before interpreting the stitched result. Compare the resulting alignment with the lab report. The report records the original experiment and the scripts contain the per-image settings.
