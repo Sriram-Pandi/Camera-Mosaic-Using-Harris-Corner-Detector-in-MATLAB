@@ -29,3 +29,7 @@ The objective of this laboratory experiment is to understand the basics of camer
    - Documented challenges, modifications made, and insights drawn from the mosaicing process.
 
 By the end of this project, I acquired a deep understanding of the principles behind camera calibration, feature detection, and image mosaicing. I was also able to critically evaluate the performance of the Harris corner detector and its application in creating image mosaics. The project underscored the importance of feature detection in the domain of computer vision and its vast applications in real-world scenarios.
+
+## Scripts and inputs
+
+Start with the [lab report](RSN-Lab-5_Report.pdf) for the source image pairs and results. The MATLAB scripts are [15percents.m](15percents.m), [percent50.m](percent50.m), [cinder.m](cinder.m), and [pano.m](pano.m). Use MATLAB with Image Processing Toolbox and supply the images each script references.
